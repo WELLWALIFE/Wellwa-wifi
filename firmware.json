@@ -1,0 +1,5 @@
+{
+  "version": 2,
+  "file_url": "https://github.com/WELLWALIFE/Wellwa-wifi/raw/main/firmware.bin",
+  "notes": "Added new feature to read temperature every 30 seconds."
+}
